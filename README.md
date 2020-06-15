@@ -1,0 +1,2 @@
+# SpamBotReviewed
+This is a revised version of cgoeller919's spam bot, made to include the new "This is for Rachel" meme. I DO NOT CONDONE USE OF THIS BOT FOR MALICIOUS PURPOSES. THIS PROJECT WAS CREATED WITH LEARNING IN MIND, AND I ONLY RECOMMEND USE FOR THAT PURPOSE.  The only nonstandard modules this bot requires are pywin32, and pyautogui. Please support these developers! pywin32: https://sourceforge.net/projects/pywin32/ pyautogui: https://pyautogui.readthedocs.io/en/latest/ - Same disclaimer, as its a practically unaltered version.
